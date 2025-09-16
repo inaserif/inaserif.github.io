@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "publications"
     url: /publications/
+  - title: "digital ressources"
+    url: /digital_ressources/
   - title: "teaching"
     url: /teaching/
   - title: "projects"
