@@ -52,28 +52,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-scholar
-
-scholar:
-  style: https://github.com/citation-style-language/styles/blob/master/infoclio-de.csl
-  locale: en
-
-  sort_by: none
-  order: ascending
-
-  source: ./_bibliography
-  bibliography: _bibliography/references.bib
-  bibliography_template: "{{reference}}"
-
-  replace_strings: true
-  join_strings:    true
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
-
+  
 author:
   name   : "ina serif"
   avatar : "/assets/images/picture.jpg"
