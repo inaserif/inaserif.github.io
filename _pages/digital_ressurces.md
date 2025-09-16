@@ -1,6 +1,6 @@
 ---
-permalink: /digital_ressources/
-title: "digital ressources"
+permalink: /digital_resources/
+title: "digital resources"
 ---
 
 - Serif, Ina: Introduction to Digital History, 2022: Online: <https://wissen-ist-acht.github.io/digitalhistory.intro/>, latest update 06.09.2024.
