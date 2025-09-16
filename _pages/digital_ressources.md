@@ -1,3 +1,8 @@
+---
+permalink: /digital_ressources/
+title: "digital ressources"
+---
+
 - Serif, Ina: Introduction to Digital History, 2022: Online: <https://wissen-ist-acht.github.io/digitalhistory.intro/>, latest update 06.09.2024.
 
 - Serif, Ina: Data base of the known manuscripts that transmit the chronicle of Jakob Twinger von Königshofen, v1.1, 2022, <https://doi.org/10.5281/ZENODO.7469112>.
