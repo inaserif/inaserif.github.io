@@ -5,7 +5,7 @@ title: "publications"
 Here is a selection of some of my publications; an extensive list can be found here: [https://dg.philhist.unibas.ch/de/personen/ina-cathrin-serif/publikationen/](https://dg.philhist.unibas.ch/de/personen/ina-cathrin-serif/publikationen/).
 
 I have written an introduction to digital history for first-year history students, which proved to be helpful beyond the initial scope:
-- Serif, Ina: Introduction to Digital History. [https://wissen-ist-acht.github.io/digitalhistory.intro/](https://wissen-ist-acht.github.io/digitalhistory.intro/), 2022, latest update 10/2024. 
+- Serif, Ina: Introduction to Digital History. [https://wissen-ist-acht.github.io/digitalhistory.intro/](https://wissen-ist-acht.github.io/digitalhistory.intro/), 2022, latest update 9/2024. 
 
 My PhD thesis about the late medieval chronicle of Jakob Twinger von Königshofen was published in 2020:
 - Serif, Ina: Geschichte aus der Stadt. Überlieferung und Aneignungsformen der deutschen Chronik Jakob Twingers von Königshofen, Berlin/Boston 2020 (Kulturtopographie des alemannischen Raums). [https://doi.org/10.1515/9783110636475](https://doi.org/10.1515/9783110636475).
