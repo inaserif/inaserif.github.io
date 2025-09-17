@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "publications"
 ---
-Here is a selection of some of my publications; an extensive list can be found here: https://dg.philhist.unibas.ch/de/personen/ina-cathrin-serif/publikationen/.
+Here is a selection of some of my publications; an extensive list can be found here: [https://dg.philhist.unibas.ch/de/personen/ina-cathrin-serif/publikationen/](https://dg.philhist.unibas.ch/de/personen/ina-cathrin-serif/publikationen/).
 
 I have written an introduction to digital history for first-year history students, which proved to be helpful beyond the initial scope:
 - Serif, Ina: Introduction to Digital History. [https://wissen-ist-acht.github.io/digitalhistory.intro/](https://wissen-ist-acht.github.io/digitalhistory.intro/), 2022, latest update 10/2024. 
@@ -25,6 +25,7 @@ Some reflections on the application of topic modeling to this subset are here:
 
 I have been working with the *Avisblatt*, an 18th century advertisement newspaper from Basel, which was transformed into a data base:
 - Bannert, M.; Burghartz, S.; Dickmann, E.; Engel, A.; Reimann, A.; Serif, Ina (2023) «Raw and Processed Data of Printed Markets - The Basel Avisblatt (1729-1845)». Online: 10.5281/zenodo.8278751.
+  
 A github repository and a corresponding package can be found here:
 - [https://github.com/Avisblatt](https://github.com/Avisblatt).
 
