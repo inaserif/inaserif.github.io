@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /publications_all/
 title: "publications"
 ---
 
