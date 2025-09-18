@@ -1,11 +1,11 @@
 main:
-  - title: "about"
-    url: /about/
-  - title: "publications"
-    url: /publications/
-  - title: "digital resources"
-    url: /digital_resources/
+  #- title: "about"
+  #  url: /about/
   - title: "teaching"
     url: /teaching/
+  - title: "digital resources"
+    url: /digital_resources/
+  - title: "publications"
+    url: /publications/
   - title: "projects"
     url: /projects/
