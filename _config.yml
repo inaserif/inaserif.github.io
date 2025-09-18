@@ -71,8 +71,8 @@ author:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-2419-4252"
 
-footer:
-  links:
+#footer:
+#  links:
   #  - label: "bluesky"
   #    icon: "fab fa-fw fa-bluesky-square"
   #    url: "https://bsky.app/profile/wissen-ist-acht.bsky.social"
