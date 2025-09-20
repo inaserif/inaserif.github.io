@@ -14,7 +14,7 @@ An up-to-date list of the known manuscripts of the chronicle can be found here:
 - Serif, Ina: Der zerstreute Chronist. Zur Überlieferung der deutschsprachigen Chronik Jakob Twingers von Königshofen, in: Mittelalter. Interdisziplinäre Forschung und Rezeptionsgeschichte, 12.05.2015, [https://mittelalter.hypotheses.org/7063](https://doi.org/10.1515/9783110636475), latest update 07/2025.
 
 A corresponding database can be found here:
-- Serif, Ina: Data base for the known manuscripts that transmit the chronicle of Jakob Twinger von Königshofen, 2022 [10.5281/ZENODO.7469112](10.5281/ZENODO.7469112).
+- Serif, Ina: Data base for the known manuscripts that transmit the chronicle of Jakob Twinger von Königshofen, 2022, [10.5281/ZENODO.7469112](10.5281/ZENODO.7469112).
 
 An application of network analysis to a subset of the chronicle manuscripts can be found in this article:
 - Serif, Ina: From Networks of Texts to Networks of Topics? On the Classification of (Texts in) Compilations with a View towards Manuscript Transmission, in: Journal of Historical Network Research 9, 1 (2023), pp. 184–213. Online: <https://doi.org/10.25517/jhnr.v9i1.136>.
