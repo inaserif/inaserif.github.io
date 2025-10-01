@@ -11,8 +11,14 @@ Here is an overview of some of my current projects.
 The number of entries and their length and dating differ from manuscript to manuscript, and these can now be compared. 
 The corresponding XML-TEI files can be found [here](https://github.com/wissen-ist-acht/Konstanzer_Jahrgeschichten/tree/main/manuscripts).
 
+- ### 	The Quest for the Holy Entity: Using LLMs for Entity Recognition in Medieval Texts
+
+Using medieval pilgrimage reports as sample, I am creating a pipeline for recognition, extraction and verification of entities, such as persons, places, organisations asf.
+
 - ### llm benchmarking for humanities data
 
 As part of my activity at [RISE](rise.unibas.ch), I am contributing to benchmarks that assess the performance of large language models (LLMs) on humanities-related tasks.
-The (fraktur benchmark)[https://rise-unibas.github.io/humanities_data_benchmark/benchmarks/fraktur/] evaluates a segmentation and transcription task using digitised images of an early modern newspaper.
+
+The [fraktur benchmark](https://rise-unibas.github.io/humanities_data_benchmark/benchmarks/fraktur/) evaluates a segmentation and transcription task using digitised images of an early modern newspaper.
+
 The medieval manuscript benchmark assesses the performance of llms in transcribing medieval handwriting.
