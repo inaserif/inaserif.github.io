@@ -13,7 +13,8 @@ The corresponding XML-TEI files can be found [here](https://github.com/wissen-is
 
 - ### 	The Quest for the Holy Entity: Using LLMs for Entity Recognition in Medieval Texts
 
-Using medieval pilgrimage reports as sample, I am creating a pipeline for recognition, extraction and verification of entities, such as persons, places, organisations asf.
+Using medieval pilgrimage reports as sample, I am creating a pipeline for recognition, extraction and verification of entities, such as persons, places, organisations asf. 
+Besides the technical work, a paper that discusses challenges and potentials and contains content-related analysis is in progress.
 
 - ### llm benchmarking for humanities data
 
