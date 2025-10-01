@@ -10,6 +10,7 @@ permalink: /
 
 I am a historian focusing on medieval and early modern european history, employing computational methods to research when it seems suitable and finding joy in automating the boring stuff.
 I am currently employed at the University Basel as a postdoc for premodern and digital history. 
+I am also part of the team of [RISE](https://rise.unibas.ch/en/), supporting humanities researchers on computer-based research, data creation and analysis and data dissemination.
 
 On these pages, you can find an overview of my teaching, with a focus on digital history, and a commented selection of some of my publications.
 You can also find some digital resources I created that might prove useful for others, as well as an overview of some current projects I am working on. 
