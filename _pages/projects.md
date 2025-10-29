@@ -20,7 +20,7 @@ Besides the technical work, a paper that discusses challenges and potentials and
 
 As part of my activity at [RISE](rise.unibas.ch), I am contributing to benchmarks that assess the performance of large language models (LLMs) on humanities-related tasks.
 
-The [medieval manuscript benchmark](https://rise-unibas.github.io/humanities_data_benchmark/benchmarks/medieval_manuscripts/) assesses the performance of llms in transcribing medieval handwriting.
+The [medieval manuscript benchmark](https://rise-unibas.github.io/humanities_data_benchmark/benchmarks/medieval_manuscripts/) assesses the performance of llms in transcribing late medieval central european handwriting.
 
-The [fraktur benchmark](https://rise-unibas.github.io/humanities_data_benchmark/benchmarks/fraktur/) evaluates a segmentation and transcription task using digitised images of an early modern newspaper.
+The [fraktur benchmark](https://rise-unibas.github.io/humanities_data_benchmark/benchmarks/fraktur/) evaluates a segmentation and transcription task using digitised images of an early modern newspaper, printed in fraktur in the 18th and 19th century.
 
