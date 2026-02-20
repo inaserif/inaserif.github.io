@@ -7,7 +7,7 @@ I have been teaching various courses at the universities of Freiburg i. Br. (D) 
 An overview over my more recent teaching can be found [here](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?periode=all&keyword=ina+cathrin+serif&z51=&search=1#searchResults).
 
 Since 2020, I have been focusing more and more on teaching computational methods to (PhD) students at the history department in Basel.
-In theses hands-on courses, methodical and technical skills are tought and applied to historical sources/data sets.
+In theses hands-on courses, methodical and technical skills are taught and applied to historical sources/data sets.
 The courses are open for students of all levels, and no prior knowledge is required, only a genuine interest in learning new things and an openness towards collaborative work.
 While some courses are more centered around the use of specific software, others start with learning a programming language (R or Python) as a basis for the creation of a (collaborative) semester project, focusing on a historical research question.
 
