@@ -26,7 +26,7 @@ Some reflections on the application of topic modeling to this subset are here:
 I have been working with the *Avisblatt*, an 18th century advertisement newspaper from Basel, which was transformed into a data base:
 - Bannert, M.; Burghartz, S.; Dickmann, E.; Engel, A.; Reimann, A.; Serif, Ina: Raw and Processed Data of Printed Markets - The Basel Avisblatt (1729-1845), 2023. Online: <10.5281/zenodo.8278751>.
   
-A github repository and a corresponding package can be found here:
+A github repository and a corresponding R package which I co-authored can be found here:
 - [https://github.com/Avisblatt](https://github.com/Avisblatt)
 
 Some articles on this data set are:
